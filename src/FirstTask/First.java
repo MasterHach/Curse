@@ -1,5 +1,8 @@
+package FirstTask;
+
 import java.util.Scanner;
-public class first {
+
+public class First {
     public static void FirstTask() {
         Scanner scan = new Scanner(System.in);
         System.out.println("Enter some string: ");

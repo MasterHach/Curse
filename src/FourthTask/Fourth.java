@@ -1,6 +1,9 @@
-import java.util.Scanner;
+package FourthTask;
+
 import java.util.ArrayList;
-public class fourth {
+import java.util.Scanner;
+
+public class Fourth {
     String s1 = " ";
     String s2 = " ";
     String s3 = " ";

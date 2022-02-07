@@ -1,9 +1,11 @@
-public class fifth {
+package FifthTask;
+
+public class Good {
     private  String name;
     private  int weight;
     private  int price;
 
-    public fifth(String name, int weight, int price) {
+    public Good(String name, int weight, int price) {
         this.name = name;
         this.weight = weight;
         this.price = price;

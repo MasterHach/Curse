@@ -1,5 +1,8 @@
+package SecondTask;
+
 import java.util.Scanner;
-public class second {
+
+public class Second {
     public static void SecondTask() {
         Scanner scan = new Scanner(System.in);
         System.out.println("Enter some int number: ");

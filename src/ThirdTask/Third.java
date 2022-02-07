@@ -1,10 +1,14 @@
+package ThirdTask;
+
 import java.util.Arrays;
 import java.util.Locale;
 import java.util.Scanner;
-public class third {
+
+public class Third {
     public static void ThirdTask() {
         Scanner scan = new Scanner(System.in);
-        System.out.println("Input some sentence on russian (separator - one space ('_') ): ");
+        System.out.println();
+        System.out.println("\nInput some sentence on russian (separator - one space ('_') ): ");
         String str = scan.nextLine();
         str = str.toLowerCase(Locale.ROOT);
         str = str.trim();
